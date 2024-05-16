@@ -20,7 +20,7 @@ Sounds good? Then why don’t you join me in discovering that building intellige
 
 **Duration:** 45 to 60 mins session content (with time for Q&A)
 
-**Speaker Expectation/Skills:** Mid-level theory content, multiple complex demos, hands on experience with Azure OpenAI Service, .NET APIs, and Copilot Studio.
+**Speaker Expectation/Skills:** Mid-level theory content, multiple complex demos, hands on experience with Azure OpenAI Service, .NET APIs, Power Automate, and Copilot Studio.
 
 ## Assets you will need to redeliver this session
 
