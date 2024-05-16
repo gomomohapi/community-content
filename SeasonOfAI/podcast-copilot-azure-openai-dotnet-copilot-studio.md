@@ -20,4 +20,22 @@ Sounds good? Then why don’t you join me in discovering that building intellige
 
 **Duration:** 45 to 60 mins session content (with time for Q&A)
 
-**Speaker Expectation/Skills:** Mid-level theory content, multiple complex demos, hands on experience with Azure OpenAI Service, .NET APIs, and Copilot Studio
+**Speaker Expectation/Skills:** Mid-level theory content, multiple complex demos, hands on experience with Azure OpenAI Service, .NET APIs, and Copilot Studio.
+
+## Assets you will need to redeliver this session
+
+### Prerequisites
+
+This presentation is based on the [Podcast Copilot with Azure OpenAI Service, .NET, and Power Platform workshop](https://aka.ms/PowerPodcastCopilot). To prepare for the presentation, you can either:
+
+- Go through the [workshop](https://aka.ms/PowerPodcastCopilot) in full or
+- Watch video walkthroughs of the workshop on [YouTube](https://youtube.com/playlist?list=PLGTUpam8Kqqua_t_cyFAe0NvDYD343qFU&si=_IkXZBaO8_HAtdVE)
+
+### Preparation
+
+- Download the PowerPoint presentation for the session here **TODO: Add link**
+- Demo videos are included here **TODO: Add links**
+
+> Note: Videos are not currently added into the deck, as part of the lerning journey please include them in the assigned sections
+
+For ease of delivery we have provided video demos which we recommend speaking over for the maximum impact and delivery of message.
