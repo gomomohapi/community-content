@@ -8,7 +8,7 @@ Each topic includes slides and presentation notes. Some will included pre-record
 
 - [Generative AI for Developers](https://github.com/microsoft/community-content/blob/main/SeasonOfAI/generative-ai-dotnet-devs.md) (.NET)
 - [Getting Started with Azure AI Studio](https://github.com/microsoft/community-content/blob/main/SeasonOfAI/getting-started-azure-ai-studio.md) (General)
-- [Podcast Copilot with Azure OpenAI Service, .NET, and Power Platform](podcast-copilot-azure-openai-dotnet-powerplatform.md) (Azure OpenAI Service, .NET, Power Platform)
+- [Podcast Copilot with Azure OpenAI Service, .NET, and Copilot Studio](podcast-copilot-azure-openai-dotnet-powerplatform.md) (Azure OpenAI Service, .NET, Copilot Studio)
 
 ## QR Code/Attendee Survey
 Whether you use the content provided here directly or adapt to make it your own, please include the provided "Season of AI" QR code slide at the end of your talk. The code links to an attendee survey that helps us better understand how this content is being used so we can keep making more of it in the future!
