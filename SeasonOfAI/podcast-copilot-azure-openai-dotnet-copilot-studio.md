@@ -35,14 +35,14 @@ This presentation is based on the [Podcast Copilot with Azure OpenAI Service, .N
 
 ### Preparation
 
-- Download the PowerPoint presentation for the session here **TODO: Add link**
+- Download the PowerPoint presentation for the session [here](https://github.com/gomomohapi/community-content/releases/download/SeasonOfAI-July2024/Podcast.Copilot.with.Azure.OpenAI.Service.NET.and.Copilot.Studio.pptx)
 - Demo videos are available unlisted on YouTube. They include:
     - [Demo 1 | Creating Azure OpenAI Service and Bing Search resources](https://youtu.be/3r2B_wPe55g)
     - [Demo 2 | Creating Azure OpenAI Service model deployments](https://youtu.be/UlnX0Aao02o)
     - [Demo 3 | Setting up a .NET API with the .NET Azure OpenAI SDK](https://youtu.be/VjLquf1Pd3o)
     - [Demo 4 | Configuring a Custom Connector from Visual Studio](https://youtu.be/wvJnamLuxDI)
     - [Demo 5 | Integrating with a Copilot Studio custom copilot](https://youtu.be/eGZ05ER32CM)
-- Demo videos are also included in this zip file **TODO: Add link**
+- Demo videos are also included in this [zip file](https://github.com/gomomohapi/community-content/releases/download/SeasonOfAI-July2024/Podcast.Copilot.with.Azure.OpenAI.Service.NET.and.Copilot.Studio.zip)
 
 > **Note:** Videos are not currently added into the deck, as part of the learning journey please include them in the assigned sections
 
